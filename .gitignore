@@ -1,3 +1,5 @@
 .conda/
 chat_playground/
 congig/.env
+data/*
+.env
