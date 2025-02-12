@@ -2,4 +2,4 @@
 chat_playground/
 congig/.env
 data/*
-.env
+fine-tuned-group-chat/
